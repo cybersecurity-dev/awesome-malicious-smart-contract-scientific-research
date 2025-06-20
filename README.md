@@ -14,7 +14,7 @@
 
 ### 2023
 -
--
+- [Deep Learning-Based Malicious Smart Contract and Intrusion Detection System for IoT Environment](https://www.mdpi.com/2227-7390/11/2/418) - Published: 12 January 2023
 -
 
 ### 2022
