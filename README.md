@@ -1,4 +1,4 @@
-# Awesome Malicious Smart Contract Scientific Research
+# Awesome Malicious Smart Contract Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
