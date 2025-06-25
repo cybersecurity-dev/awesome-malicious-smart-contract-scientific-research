@@ -1,6 +1,9 @@
 # Awesome Malicious Smart Contract Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
+## 📖 Contents
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ### 2025
 -
