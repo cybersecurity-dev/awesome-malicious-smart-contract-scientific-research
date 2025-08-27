@@ -43,6 +43,17 @@
 -
 -
 
+
+##
+### Other Awesome Smart Contract
+- [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
+- [Awesome Smart Contract](https://github.com/cybersecurity-dev/awesome-smart-contract)
+- [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
+- [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
+- [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
+- Scientific Research
+    - [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
