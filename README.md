@@ -9,6 +9,8 @@
 </p>
 
 ## 📖 Contents
+- [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [Others](#old)
+- [My Other Smart Contract Awesome Lists](#my-other-smart-contract-awesome-lists)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
@@ -43,19 +45,18 @@
 -
 -
 
+### Old
+-
+-
+-
 
 ##
-### Other Awesome Smart Contract
-- [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
-- [Awesome Smart Contract](https://github.com/cybersecurity-dev/awesome-smart-contract)
-- [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
-- [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
-- [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
-- Scientific Research
-    - [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
+
+### My Other Smart Contract Awesome Lists
+- You can access the my smart contract awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists#-smart-contract)
 
 ### My Other Awesome Lists
-You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+- You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
 
